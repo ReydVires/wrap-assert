@@ -2,6 +2,7 @@
   "name": "wrap-assert",
   "version": "0.1.0",
   "description": "This package will take wrap the assert console",
+  "homepage": "https://github.com/ReydVires/wrap-assert",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
