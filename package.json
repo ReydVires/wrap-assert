@@ -1,11 +1,11 @@
 {
   "name": "wrap-assert",
-  "version": "0.1.2",
+  "version": "0.1.25",
   "description": "This package will take wrap the assert console for mini test",
   "homepage": "https://github.com/ReydVires/wrap-assert",
   "main": "index.js",
   "scripts": {
-    "build": "esbuild index.js --bundle --minify-whitespace --outfile=app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "node",
@@ -16,9 +16,5 @@
     "log"
   ],
   "author": "ReydVires",
-  "license": "MIT",
-  "dependencies": {
-    "esbuild": "^0.8.29",
-    "save-dev": "0.0.1-security"
-  }
+  "license": "MIT"
 }
