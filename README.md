@@ -20,3 +20,5 @@ assert(!test, label); // Output: Equation test is fail ❌
 - value: boolean
 - label?: string
 - failMessage?: string
+
+NPM Package: [Link](https://npmjs.com/package/wrap-assert)
