@@ -2,6 +2,8 @@
 
 An assert wrapper for mini test.
 
+<img src='https://img.shields.io/badge/Version-0.1.2-brightgreen'  alt="Version: 0.1.2"/>
+
 ## usage (commonJS)
 
 ```javascript
