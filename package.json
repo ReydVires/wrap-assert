@@ -1,6 +1,6 @@
 {
   "name": "wrap-assert",
-  "version": "0.1.2",
+  "version": "0.1.25",
   "description": "This package will take wrap the assert console for mini test",
   "homepage": "https://github.com/ReydVires/wrap-assert",
   "main": "index.js",
