@@ -5,11 +5,20 @@
   "homepage": "https://github.com/ReydVires/wrap-assert",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "esbuild index.js --bundle --minify-whitespace --outfile=app.js"
   },
   "keywords": [
-    "node", "npm", "assert", "wrap", "wrapper", "log"
+    "node",
+    "npm",
+    "assert",
+    "wrap",
+    "wrapper",
+    "log"
   ],
   "author": "ReydVires",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.8.29",
+    "save-dev": "0.0.1-security"
+  }
 }
